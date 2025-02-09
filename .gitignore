@@ -1,0 +1,29 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# macOS files
+.DS_Store
+
+# Build files
+build/
+dist/
+
+# Debug files
+debug.log
+npm-debug.log*
+
+# Local development files
+.local
+
+# Testing files
+coverage/
