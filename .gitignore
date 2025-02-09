@@ -27,3 +27,6 @@ npm-debug.log*
 
 # Testing files
 coverage/
+
+# Environment variables
+.env
